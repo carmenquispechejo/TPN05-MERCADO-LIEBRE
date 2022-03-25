@@ -166,9 +166,6 @@ p#end.negrita{
 }
 
 
-/* Media Queries */
-
-/* 320px - Mobile Small */
 
 @media (min-width: 320px){
 
@@ -202,7 +199,6 @@ p#end.negrita{
     }
     }
 
-    /* 361px - Tablet */
 
     @media (min-width: 361px){
 
